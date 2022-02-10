@@ -1,5 +1,26 @@
 * {
     box-sizing: border-box
 }
+#content {
+    width: 950px;
+    margin: 0 auto;
+}
 
+p.is-flex {
+    width: 250px;
+}
 /* using bulma styles */
+/* using cooolors for colors */
+#languid-lavender {
+    background-color: #CABAC8 !important;
+}
+
+#old-mauve {
+    background-color: #703D57 !important;
+    color: white;
+}
+
+#virdigris {
+    background-color: #48A9A6 !important;
+    color: white
+}
